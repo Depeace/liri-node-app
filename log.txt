@@ -1,0 +1,280 @@
+**********SONG INFO*********
+0
+song name: Viva La Vida
+preview song: https://p.scdn.co/mp3-preview/bb0a310830636ebf8e5f6a1fa03d129a9724f7ec?cid=34e84d93de6a4650815e5420e0361fd3
+album: Viva La Vida or Death and All His Friends
+artist(s): Coldplay
+*****************************
+**********SONG INFO*********
+1
+song name: The Scientist
+preview song: https://p.scdn.co/mp3-preview/95cb9df1b056d759920b5e85ad7f9aff0a390671?cid=34e84d93de6a4650815e5420e0361fd3
+album: A Rush of Blood to the Head
+artist(s): Coldplay
+*****************************
+**********SONG INFO*********
+2
+song name: Yellow
+preview song: https://p.scdn.co/mp3-preview/c119ca773ef844108da21c4679dc54c007cf0926?cid=34e84d93de6a4650815e5420e0361fd3
+album: Parachutes
+artist(s): Coldplay
+*****************************
+**********SONG INFO*********
+3
+song name: Something Just Like This
+preview song: https://p.scdn.co/mp3-preview/cb1ae1f9e2f874dd2d19e4c29edb552777eb1e7a?cid=34e84d93de6a4650815e5420e0361fd3
+album: Memories...Do Not Open
+artist(s): The Chainsmokers
+*****************************
+**********SONG INFO*********
+4
+song name: Fix You
+preview song: https://p.scdn.co/mp3-preview/b1640815319b2df5ddfac27a28f016319a281468?cid=34e84d93de6a4650815e5420e0361fd3
+album: X&Y
+artist(s): Coldplay
+*****************************
+**********SONG INFO*********
+5
+song name: Paradise
+preview song: https://p.scdn.co/mp3-preview/99475c9d11e4df26ca9d1460fbe0654e687d79e0?cid=34e84d93de6a4650815e5420e0361fd3
+album: Mylo Xyloto
+artist(s): Coldplay
+*****************************
+**********SONG INFO*********
+6
+song name: A Sky Full of Stars
+preview song: https://p.scdn.co/mp3-preview/dca7402083b8dbf0e2a5e91f49eb76bde94cd493?cid=34e84d93de6a4650815e5420e0361fd3
+album: Ghost Stories
+artist(s): Coldplay
+*****************************
+**********SONG INFO*********
+7
+song name: Clocks
+preview song: https://p.scdn.co/mp3-preview/24c7fe858b234e3cb21872cd03ab44b669163fbb?cid=34e84d93de6a4650815e5420e0361fd3
+album: A Rush of Blood to the Head
+artist(s): Coldplay
+*****************************
+**********SONG INFO*********
+8
+song name: Hymn for the Weekend
+preview song: https://p.scdn.co/mp3-preview/0e36103f9c968a7f07d502003a109c314f36ae9c?cid=34e84d93de6a4650815e5420e0361fd3
+album: A Head Full of Dreams
+artist(s): Coldplay
+*****************************
+**********SONG INFO*********
+9
+song name: Something Just Like This
+preview song: https://p.scdn.co/mp3-preview/499eefd42a24ec562c464bd7acfad7ed41eb9179?cid=34e84d93de6a4650815e5420e0361fd3
+album: Something Just Like This
+artist(s): The Chainsmokers
+*****************************
+**********SONG INFO*********
+10
+song name: Adventure of a Lifetime
+preview song: https://p.scdn.co/mp3-preview/f5c8203c517a906dd581e0faeca84d1e0206c8b6?cid=34e84d93de6a4650815e5420e0361fd3
+album: A Head Full of Dreams
+artist(s): Coldplay
+*****************************
+**********SONG INFO*********
+11
+song name: Hymn for the Weekend - Seeb Remix
+preview song: https://p.scdn.co/mp3-preview/d36ebf2b3d829b008bfea00bca48536fa510b6f0?cid=34e84d93de6a4650815e5420e0361fd3
+album: Hymn for the Weekend (Seeb Remix)
+artist(s): Coldplay
+*****************************
+**********SONG INFO*********
+12
+song name: Magic
+preview song: https://p.scdn.co/mp3-preview/4bbc6c3a61b175ca895e0f5a2ab79804f290b263?cid=34e84d93de6a4650815e5420e0361fd3
+album: Ghost Stories
+artist(s): Coldplay
+*****************************
+**********SONG INFO*********
+13
+song name: Trouble
+preview song: https://p.scdn.co/mp3-preview/d304ea35aada75a163b7cf6eeb4fddb6090b76de?cid=34e84d93de6a4650815e5420e0361fd3
+album: Parachutes
+artist(s): Coldplay
+*****************************
+**********SONG INFO*********
+14
+song name: Speed of Sound
+preview song: https://p.scdn.co/mp3-preview/739f1ff67c5b9a416d7a1136c2e15b53a67bdce9?cid=34e84d93de6a4650815e5420e0361fd3
+album: X&Y
+artist(s): Coldplay
+*****************************
+**********SONG INFO*********
+15
+song name: Sparks
+preview song: https://p.scdn.co/mp3-preview/43efa81d559a0223fb8bbd48b0402941694198e8?cid=34e84d93de6a4650815e5420e0361fd3
+album: Parachutes
+artist(s): Coldplay
+*****************************
+**********SONG INFO*********
+16
+song name: Every Teardrop Is a Waterfall
+preview song: https://p.scdn.co/mp3-preview/141f9b669c6a6875276962ce25f4b2d5f142d613?cid=34e84d93de6a4650815e5420e0361fd3
+album: Mylo Xyloto
+artist(s): Coldplay
+*****************************
+**********SONG INFO*********
+17
+song name: In My Place
+preview song: https://p.scdn.co/mp3-preview/e152576c5affbc6d08bb5b67ff0f4d18e29914ce?cid=34e84d93de6a4650815e5420e0361fd3
+album: A Rush of Blood to the Head
+artist(s): Coldplay
+*****************************
+**********SONG INFO*********
+18
+song name: Up&Up
+preview song: https://p.scdn.co/mp3-preview/bd56fefdca9faf370a0589aedbf2269aea722a38?cid=34e84d93de6a4650815e5420e0361fd3
+album: A Head Full of Dreams
+artist(s): Coldplay
+*****************************
+**********SONG INFO*********
+19
+song name: Everglow
+preview song: https://p.scdn.co/mp3-preview/0b52f57189a7bb1229df5d092289c5a3a0811a06?cid=34e84d93de6a4650815e5420e0361fd3
+album: A Head Full of Dreams
+artist(s): Coldplay
+*****************************
+**********SONG INFO*********
+0
+song name: Pure Water (with Migos)
+preview song: null
+album: Pure Water (with Migos)
+artist(s): Mustard
+*****************************
+**********SONG INFO*********
+1
+song name: Walk It Talk It
+preview song: null
+album: Culture II
+artist(s): Migos
+*****************************
+**********SONG INFO*********
+2
+song name: I Get The Bag (feat. Migos)
+preview song: https://p.scdn.co/mp3-preview/8ae1a1c5ce2421df896e27cbf238da4597df39d9?cid=34e84d93de6a4650815e5420e0361fd3
+album: Mr. Davis
+artist(s): Gucci Mane
+*****************************
+**********SONG INFO*********
+3
+song name: Stir Fry
+preview song: null
+album: Culture II
+artist(s): Migos
+*****************************
+**********SONG INFO*********
+4
+song name: MotorSport
+preview song: null
+album: Culture II
+artist(s): Migos
+*****************************
+**********SONG INFO*********
+5
+song name: Slide (feat. Frank Ocean & Migos)
+preview song: https://p.scdn.co/mp3-preview/d3e8d7ced6e0f3844b8c0309a7d4baad511a3518?cid=34e84d93de6a4650815e5420e0361fd3
+album: Slide (feat. Frank Ocean & Migos)
+artist(s): Calvin Harris
+*****************************
+**********SONG INFO*********
+6
+song name: Bad and Boujee (feat. Lil Uzi Vert)
+preview song: https://p.scdn.co/mp3-preview/7692f502539573458844535e54f247643d2f7157?cid=34e84d93de6a4650815e5420e0361fd3
+album: Culture
+artist(s): Migos
+*****************************
+**********SONG INFO*********
+7
+song name: Narcos
+preview song: null
+album: Culture II
+artist(s): Migos
+*****************************
+**********SONG INFO*********
+8
+song name: Drip (feat. Migos)
+preview song: https://p.scdn.co/mp3-preview/539413b256bca7bd14951d182f4771691e68bb3e?cid=34e84d93de6a4650815e5420e0361fd3
+album: Invasion of Privacy
+artist(s): Cardi B
+*****************************
+**********SONG INFO*********
+9
+song name: Slippery (feat. Gucci Mane)
+preview song: https://p.scdn.co/mp3-preview/25bf4c7c13f59a0bd7f0ce023a524892a7216872?cid=34e84d93de6a4650815e5420e0361fd3
+album: Culture
+artist(s): Migos
+*****************************
+**********SONG INFO*********
+10
+song name: T-Shirt
+preview song: https://p.scdn.co/mp3-preview/edd2f6579cc0e33d93b4348cab6b7dfee0dfedbc?cid=34e84d93de6a4650815e5420e0361fd3
+album: Culture
+artist(s): Migos
+*****************************
+**********SONG INFO*********
+11
+song name: Notice Me
+preview song: null
+album: Culture II
+artist(s): Migos
+*****************************
+**********SONG INFO*********
+12
+song name: Stripper Bowl
+preview song: null
+album: Stripper Bowl
+artist(s): Migos
+*****************************
+**********SONG INFO*********
+13
+song name: Fight Night
+preview song: https://p.scdn.co/mp3-preview/2a7b91b3e760629de9e564cf701ec658c633b453?cid=34e84d93de6a4650815e5420e0361fd3
+album: No Label II
+artist(s): Migos
+*****************************
+**********SONG INFO*********
+14
+song name: Slide (feat. Frank Ocean & Migos)
+preview song: https://p.scdn.co/mp3-preview/d3e8d7ced6e0f3844b8c0309a7d4baad511a3518?cid=34e84d93de6a4650815e5420e0361fd3
+album: Funk Wav Bounces Vol.1
+artist(s): Calvin Harris
+*****************************
+**********SONG INFO*********
+15
+song name: Danger (with Migos & Marshmello)
+preview song: https://p.scdn.co/mp3-preview/d8062b74328507bed875218b380c069dd90738f3?cid=34e84d93de6a4650815e5420e0361fd3
+album: Danger (with Migos & Marshmello) [From Bright: The Album]
+artist(s): Migos
+*****************************
+**********SONG INFO*********
+16
+song name: BBO (Bad Bitches Only)
+preview song: null
+album: Culture II
+artist(s): Migos
+*****************************
+**********SONG INFO*********
+17
+song name: Get Right Witcha
+preview song: https://p.scdn.co/mp3-preview/0b87da8236cde7dc58720eade86ca0744350fada?cid=34e84d93de6a4650815e5420e0361fd3
+album: Culture
+artist(s): Migos
+*****************************
+**********SONG INFO*********
+18
+song name: Kelly Price (feat. Travis Scott)
+preview song: https://p.scdn.co/mp3-preview/0aff87cac006cbb6a65ac3c40c3add5f89ba0958?cid=34e84d93de6a4650815e5420e0361fd3
+album: Culture
+artist(s): Migos
+*****************************
+**********SONG INFO*********
+19
+song name: Bad Intentions
+preview song: null
+album: The Bedroom Tour Playlist
+artist(s): Niykee Heaton
+*****************************
