@@ -2,7 +2,8 @@ require("dotenv").config();
 
 //Grab data from keys.js
 var keys = require('./keys.js');
-var axios = require('axios');
+var request = require('request');
+// var axios = require('axios');
 var Spotify = require('node-spotify-api');
 var spotify = new Spotify(keys.spotify);
 var fs = require('fs');
@@ -12,7 +13,7 @@ console.log(keys)
 
 //vars to capture user inputs.
 var userOption = process.argv[2]; 
-var inputParameter = process.argv[3];
+var inputParameter = process.argv.slice(3).join(' ');
 
 //Execute function
 UserInputs(userOption, inputParameter);
@@ -21,15 +22,19 @@ UserInputs(userOption, inputParameter);
 function UserInputs (userOption, inputParameter){
     switch (userOption) {
     case 'concert-this':
+        console.log('concert-this');
         showConcertInfo(inputParameter);
         break;
     case 'spotify-this-song':
+            console.log('spotify-this-song');
         showSongInfo(inputParameter);
         break;
     case 'movie-this':
+            console.log('movie-this');
         showMovieInfo(inputParameter);
         break;
     case 'do-what-it-says':
+        console.log('do-what-it-says')
         showSomeInfo();
         break;
     default: 
@@ -39,7 +44,7 @@ function UserInputs (userOption, inputParameter){
 
 //Funtion for Concert Info: Bands in Town
 function showConcertInfo(inputParameter){
-    var queryUrl = "https://rest.bandsintown.com/artists/" +  inputParameter + "/events?app_id=codingbootcamp";
+    var queryUrl ="https://rest.bandsintown.com/artists/" + inputParameter + "/events?app_id=codingbootcamp";
 
     request(queryUrl, function(error, response, body) {
     // If the request is successful
